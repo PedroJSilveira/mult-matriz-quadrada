@@ -1,4 +1,4 @@
-//if you want to multiply a matrix with other dimensions, change 3 to the number you want.
+//if you want to multiply an array with other dimensions change 3 to the desired number.
 
 #include <stdio.h>
 
